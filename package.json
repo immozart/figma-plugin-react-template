@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This plugin template uses Typescript. If you are familiar with Javascript, Typescript will look very familiar. In fact, valid Javascript code is already valid Typescript code.",
   "license": "ISC",
+  "private": true,
   "scripts": {
     "build": "webpack --mode=production",
     "build:watch": "webpack --mode=development --watch",
